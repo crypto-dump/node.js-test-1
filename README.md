@@ -47,3 +47,4 @@ Dev dependencies
 - [ ] Being able to parameterise the setup
 - [ ] Options for Test framework
 - [ ] CLI setup without using the repository
+- [ ] Setup CI/CD
